@@ -1,0 +1,53 @@
+{
+    "_meta": {
+        "hash": {
+            "sha256": "7f419997b6f15c71b11b6b31fcadaaa598888a487a4c6c9ea0f1f86b824a5280"
+        },
+        "pipfile-spec": 6,
+        "requires": {
+            "python_version": "3.10"
+        },
+        "sources": [
+            {
+                "name": "pypi",
+                "url": "https://pypi.org/simple",
+                "verify_ssl": true
+            }
+        ]
+    },
+    "default": {
+        "faker": {
+            "hashes": [
+                "sha256:067a03f64e555261610e69277536072997b4576dbf84b113faef3c06d85b466b",
+                "sha256:0e00bfa1eadf1493f15662edb181222fea4847764cf3f9ff3e66ee0f95c9a644"
+            ],
+            "index": "pypi",
+            "version": "==14.1.0"
+        },
+        "pyjokes": {
+            "hashes": [
+                "sha256:08860eedb78cbfa4618243c8db088f21c39823ece1fdaf0133e52d9c56e981a5",
+                "sha256:70b6125186dee5845038505cd16b5e09250da46c730e36b44ffd870e3c81aaaa"
+            ],
+            "index": "pypi",
+            "version": "==0.6.0"
+        },
+        "python-dateutil": {
+            "hashes": [
+                "sha256:0123cacc1627ae19ddf3c27a5de5bd67ee4586fbdd6440d9748f8abb483d3e86",
+                "sha256:961d03dc3453ebbc59dbdea9e4e11c5651520a876d0f4db161e8674aae935da9"
+            ],
+            "markers": "python_version >= '2.7' and python_version not in '3.0, 3.1, 3.2, 3.3'",
+            "version": "==2.8.2"
+        },
+        "six": {
+            "hashes": [
+                "sha256:1e61c37477a1626458e36f7b1d82aa5c9b094fa4802892072e49de9c60c4c926",
+                "sha256:8abb2f1d86890a2dfb989f9a77cfcfd3e47c2a354b01111771326f8aa26e0254"
+            ],
+            "markers": "python_version >= '2.7' and python_version not in '3.0, 3.1, 3.2, 3.3'",
+            "version": "==1.16.0"
+        }
+    },
+    "develop": {}
+}
