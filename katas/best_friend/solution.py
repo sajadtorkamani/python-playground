@@ -3,7 +3,7 @@ def best_friend(text: str, a: str, b: str):
         return False
 
     for index, current_char in enumerate(list(text)):
-        # Skip chars that aren't a
+        # Skip chars that aren't "a"
         if current_char is not a:
             continue
 
