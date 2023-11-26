@@ -1,0 +1,8 @@
+import unittest
+from .solution import $funcName$
+
+
+class SolutionTest(unittest.TestCase):
+    def test_$funcName$(self):
+        self.assertEqual(None, $funcName$())
+
