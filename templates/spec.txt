@@ -6,3 +6,5 @@ class SolutionTest(unittest.TestCase):
     def test_$funcName$(self):
         self.assertEqual(None, $funcName$())
 
+if __name__ == '__main__':
+    unittest.main()
